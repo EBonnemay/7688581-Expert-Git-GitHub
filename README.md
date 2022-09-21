@@ -10,7 +10,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 installer un IDE
 ```
-A définir
+Forker le repository projet sur votre compte Github
 ```
 
 ### Installation
