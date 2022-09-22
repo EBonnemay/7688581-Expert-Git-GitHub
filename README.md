@@ -10,8 +10,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 installer un IDE
 ```
-compte github
-framework Spring
+motif gH
+modif gH
 
 ### Installation
 
